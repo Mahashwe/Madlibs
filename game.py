@@ -5,7 +5,7 @@ def mad_libs():
     disney_character = input("Enter a Disney character: ")
     superhero = input("Enter a superhero: ")
     famous_person = input("Enter a famous person: ")
-    noun1 = input("Enter a noun: ")
+    noun1  = input("Enter a noun - Thing: ")
     noun2 = input("Enter another noun: ")
     adjective1 = input("Enter an adjective: ")
     adjective2 = input("Enter another adjective: ")
